@@ -1,0 +1,15 @@
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 5em;
+    margin-top: 3em;
+}
+
+.Schedule {
+    margin-top: 3em;
+}
+
+.schedule-heading {
+    font-size:xx-large;
+}
